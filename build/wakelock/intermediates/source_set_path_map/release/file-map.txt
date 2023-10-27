@@ -1,0 +1,12 @@
+creativemaybeno.wakelock-jetified-window-1.0.0-beta04-0 C:\Users\Hamashia\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+creativemaybeno.wakelock-jetified-annotation-experimental-1.1.0-1 C:\Users\Hamashia\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+creativemaybeno.wakelock-core-1.6.0-2 C:\Users\Hamashia\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+creativemaybeno.wakelock-jetified-window-java-1.0.0-beta04-3 C:\Users\Hamashia\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+creativemaybeno.wakelock-main-4 C:\Users\Hamashia\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock-0.6.2\android\src\main\res
+creativemaybeno.wakelock-release-5 C:\Users\Hamashia\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock-0.6.2\android\src\release\res
+creativemaybeno.wakelock-pngs-6 C:\Users\Hamashia\Downloads\coteau\build\wakelock\generated\res\pngs\release
+creativemaybeno.wakelock-resValues-7 C:\Users\Hamashia\Downloads\coteau\build\wakelock\generated\res\resValues\release
+creativemaybeno.wakelock-rs-8 C:\Users\Hamashia\Downloads\coteau\build\wakelock\generated\res\rs\release
+creativemaybeno.wakelock-mergeReleaseResources-9 C:\Users\Hamashia\Downloads\coteau\build\wakelock\intermediates\incremental\release\mergeReleaseResources\merged.dir
+creativemaybeno.wakelock-mergeReleaseResources-10 C:\Users\Hamashia\Downloads\coteau\build\wakelock\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+creativemaybeno.wakelock-merged_res-11 C:\Users\Hamashia\Downloads\coteau\build\wakelock\intermediates\merged_res\release
